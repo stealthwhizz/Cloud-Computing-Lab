@@ -1,0 +1,2 @@
+PES2UG23CS057
+Docker provides the command `docker image prune -a` to delete all unused images completely in one go.
